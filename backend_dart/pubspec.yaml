@@ -1,0 +1,5 @@
+name: catalogo_veiculos_api
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+dependencies:
+  sqlite3: 2.9.4
